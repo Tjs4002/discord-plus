@@ -36,26 +36,6 @@
   --dplus-background-color-saturation-amount: 1;
   --dplus-background-color-lightness-amount: 1;
   --dplus-background-color-alpha: 0.8;
-}
-
-/* If you use light theme, you can give it unique settings that are separate from dark theme. */
-.theme-light {
-  --dplus-backdrop: url(https://i.imgur.com/3AiL3yN.png);
-  
-  --dplus-accent-color-hue: 320;
-  --dplus-accent-color-saturation: 60%;
-  --dplus-accent-color-lightness: 31%;
-  
-  --dplus-foreground-color-hue-base: 210;
-  --dplus-foreground-color-hue-links: 197;
-  --dplus-foreground-color-saturation-amount: 1;
-  --dplus-foreground-color-lightness-amount: 1;
-
-  --dplus-background-color-hue: 320;
-  --dplus-background-color-saturation-amount: 1;
-  --dplus-background-color-lightness-amount: 1;
-  --dplus-background-color-alpha: 0.8;
-}
 
 :root {
 /* Fonts */
