@@ -11,7 +11,7 @@
  * @updateUrl https://plusinsta.github.io/discord-plus/DiscordPlus.theme.css
  * @invite 2Jwh2nS
 */
-@import url(https://backiee.com/static/wpdb/wallpapers/1000x563/317832.jpg);
+@import url();
 
 /* I've commented most of these values so you can change them yourself. If you're having trouble, or you want to do more than what these values allow for, a volunteer might be able to help you in my server. */
 
@@ -86,6 +86,6 @@ Set avatar/server radius to 50% to make them circular.
 --dplus-icon-server-list: 32px;
 
 /* The Home icon on the top left */
---dplus-icon-home-dark: url(https://media.istockphoto.com/id/645076354/photo/puppy-of-samoyed-dog-running-on-green-grass.jpg?s=612x612&w=0&k=20&c=NKPTTJa6JMEvG9JWjha0fScoMnIId747sY6TQkUtbYQ=);
---dplus-icon-home-light: url(https://media.istockphoto.com/id/645076354/photo/puppy-of-samoyed-dog-running-on-green-grass.jpg?s=612x612&w=0&k=20&c=NKPTTJa6JMEvG9JWjha0fScoMnIId747sY6TQkUtbYQ=);
+--dplus-icon-home-dark: url();
+--dplus-icon-home-light: url();
 }
